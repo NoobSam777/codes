@@ -1,4 +1,4 @@
-# Headline: Stop pausing movies to look up words. Use Python instead. 🐍🎬
+# Stop pausing movies to look up words. Use Python instead. 🐍🎬
 
 Watching movies in English is great, but pausing every 5 seconds to check the dictionary ruins the flow. That’s why I wrote a Python script to do the hard work for me before I even press play.
 
